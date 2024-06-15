@@ -1,0 +1,2 @@
+#!/bin/bash
+./PJ1 I-file O-file < Commands > Output
