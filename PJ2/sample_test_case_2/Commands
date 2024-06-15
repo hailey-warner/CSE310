@@ -1,0 +1,15 @@
+Init 20
+Read
+Print
+Insert 9
+Print
+Insert 8
+Print
+Insert 7
+Print
+DecreaseKey 10 2
+Print
+Insert 1
+Print
+Write
+Stop
